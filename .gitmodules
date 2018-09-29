@@ -1,3 +1,6 @@
 [submodule "dollar"]
 	path = dollar
 	url = git@github.com:not--p/dollar.git
+[submodule "gold"]
+	path = gold
+	url = git@github.com:not--p/gold.git
