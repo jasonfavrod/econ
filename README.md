@@ -6,4 +6,5 @@ Contents
 --------
 * gold
 * oil
+* dollar
 
